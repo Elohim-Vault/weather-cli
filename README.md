@@ -15,5 +15,4 @@
 - [ ] add tests
 
 Example of usage:
-
-`./metaweather-cli "São Paulo"`
+`ts-node index.ts --state "SP" --city "Campinas"`
